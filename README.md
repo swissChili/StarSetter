@@ -1,5 +1,6 @@
 # StarSetter
 Make yourself look like a better programmer with 0 effort
+## the dumbest tiny program i've ever made
 
 ### Usage
 - Bookmark this page
